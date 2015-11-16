@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.e("121212", "nihao");
+		Log.e("fasdf", "fsdfasd");
 	}
 
 	@Override
