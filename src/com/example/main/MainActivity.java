@@ -14,6 +14,7 @@ public class MainActivity extends Activity {
 		Log.e("121212", "nihao");
 		Log.e("fasdf", "fsdfasd");
 	    Log.e("dfss", "sadf");
+	    System.out.println("nihao");
 	}
 
 	@Override
