@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		Log.e("121212", "nihao");
 		Log.e("fasdf", "fsdfasd");
+	    Log.e("dfss", "sadf");
 	}
 
 	@Override
